@@ -1,0 +1,9 @@
+{
+	id = zarwald.foxesmod,
+	name = Foxes Mod,
+	version = 1.1,
+	gameVersion = 0.24.0,
+	author = zarwald\, 3XIE,
+	description = Add foxes,
+	clientside = false
+}
